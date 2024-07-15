@@ -21,3 +21,8 @@ footer{
     background-color: blue;
     color: black;
 }
+
+img{
+    width: 100%;
+    height: 100%;
+}
